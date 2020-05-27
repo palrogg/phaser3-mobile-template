@@ -1,12 +1,14 @@
-# Plugged
+# Phaser3 mobile template
 
-A 2D puzzle game for the 2020 Orbital Game Jam
+A template with two scenes using assets from a previous game.
 
 ### Development
 
 * `npm install`
 
-* `npm run start`
+* `npm run dev`
+
+(`npm run start`: for CI)
 
 ### Build
 
