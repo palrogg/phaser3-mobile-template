@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack --config webpack/prod.js ",
     "test": "jest",
-    "start": "webpack-dev-server --config webpack/base.js --open"
+    "dev": "webpack-dev-server --config webpack/base.js --open",
+    "start": "node server_for_heroku.js"
   },
   "repository": {
     "type": "git",
